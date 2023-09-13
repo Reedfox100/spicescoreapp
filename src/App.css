@@ -9,6 +9,10 @@ html{
 h1{
   color:white;
 }
+
+navbar{
+  display:inline-flexbox;
+}
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 0.25s linear;
